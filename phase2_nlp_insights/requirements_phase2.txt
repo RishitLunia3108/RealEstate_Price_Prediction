@@ -1,0 +1,26 @@
+# Phase 2 Requirements
+# Install with: pip install -r requirements_phase2.txt
+
+# LLM and LangChain
+google-generativeai>=0.3.0
+langchain>=0.1.0
+langchain-google-genai>=0.0.6
+langgraph>=0.0.20
+
+# Vector Store and Embeddings
+faiss-cpu>=1.7.4
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+
+# NLP Libraries
+spacy>=3.7.0
+nltk>=3.8.0
+textblob>=0.17.0
+
+# Data Processing (already have most)
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.65.0

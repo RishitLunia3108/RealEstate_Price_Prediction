@@ -1,0 +1,30 @@
+# Streamlit Real Estate Price Prediction App Requirements
+# Install with: pip install -r requirements_streamlit.txt
+
+# Core Streamlit and Web Framework
+streamlit>=1.28.0
+plotly>=5.15.0
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine Learning Libraries
+scikit-learn>=1.3.0
+xgboost>=1.7.0
+lightgbm>=3.3.0
+
+# Data Processing and Analysis
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+pickle-mixin>=1.0.2
+python-dateutil>=2.8.0
+
+# Optional: If you want to add more advanced features
+# streamlit-plotly-events>=0.0.6
+# streamlit-aggrid>=0.3.4
+# streamlit-option-menu>=0.3.6
+
+# For deployment (optional)
+# gunicorn>=20.1.0
+# watchdog>=3.0.0
