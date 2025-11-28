@@ -3,7 +3,7 @@ Configuration for Phase 2 NLP Components
 """
 
 # API Keys (Add your keys here)
-GEMINI_API_KEY = "AIzaSyBK3HGz-RBDjhnO0qkcSfIupls6rI9PsAs"  # From Phase 2 doc
+GEMINI_API_KEY = "Add_your_api_key"  # From Phase 2 doc
 
 # Model Settings
 LLM_MODEL = "gemini-2.5-flash"  # or "gemini-1.5-pro"
